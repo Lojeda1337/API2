@@ -1,0 +1,12 @@
+{
+    "OrderID": 1,
+    "Address": "Calle 1",
+    "Status": "Active",
+    "Articles": [
+        {
+        "Name": "Macbook Pro",
+        "Quantity": 1,
+        "Dangerous": false
+        }
+    ]
+}
